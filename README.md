@@ -27,7 +27,7 @@
   - :school: Teaching dev techniques for young engineers
   - :necktie: Sales engineering
 
-### :hammber: I'm Working On...
+### :hammer: I'm Working On...
 
 - :zap: Developing on various projects for my clients
 - :books: Developing an education app for programming
